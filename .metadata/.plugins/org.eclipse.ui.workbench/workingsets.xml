@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1406169115528_2" label="argal" name="argal">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/argal-servicios" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/argal-modelo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/argal-datos" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/argal-web" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/argal-seguridad" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1365198191250_0" label="Window Working Set" name="Aggregate for window 1365198191248"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1399665501828_1" label="Window Working Set" name="Aggregate for window 1399665501828"/>
+</workingSetManager>

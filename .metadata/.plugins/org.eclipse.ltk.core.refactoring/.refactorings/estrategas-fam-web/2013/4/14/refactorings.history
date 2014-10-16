@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;mx.sep.sajja.web.controller&apos; to &apos;mx.estrategas.fam.web.controller&apos;&#x0D;&#x0A;- Original project: &apos;estrategas-fam-web&apos;&#x0D;&#x0A;- Original element: &apos;estrategas-fam-web/src/main/java/mx.sep.sajja.web.controller&apos;&#x0D;&#x0A;- Renamed element: &apos;estrategas-fam-web/src/main/java/mx.estrategas.fam.web.controller&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings&#x0D;&#x0A;- Rename subpackages of the package" description="Rename package &apos;mx.sep.sajja.web.controller&apos;" flags="589830" hierarchical="true" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;mx.sep.sajja.web.controller" name="mx.estrategas.fam.web.controller" qualified="false" references="true" stamp="1365207758964" textual="false" version="1.0"/>
+</session>

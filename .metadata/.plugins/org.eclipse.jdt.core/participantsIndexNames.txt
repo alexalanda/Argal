@@ -1,0 +1,15 @@
+INDEX VERSION 1.127
+C:\Users\Alf\Documents\smart\argal\argal\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1920240299.index
+\argal-web\src\main\java
+C:\Users\Alf\Documents\smart\argal\argal\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1018317075.index
+\argal-web\src\main\java
+C:\Users\Alf\Documents\smart\argal\argal\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2474020461.index
+\argal-web\src\main\java
+C:\Users\Alf\Documents\smart\argal\argal\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\493072679.index
+\argal-web\src\main\java
+C:\Users\Alf\Documents\smart\argal\argal\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3489937718.index
+\argal-web\src\main\java
+C:\Users\Alf\Documents\smart\argal\argal\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3080815306.index
+\argal-web\src\main\java
+C:\Users\Alf\Documents\smart\argal\argal\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\431237452.index
+\argal-web\src\main\java
