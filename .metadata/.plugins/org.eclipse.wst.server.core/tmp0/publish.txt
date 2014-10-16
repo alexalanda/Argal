@@ -1,0 +1,7 @@
+#Tomcat publish data
+#Wed Jul 23 21:34:21 CDT 2014
+org.eclipse.jst.j2ee.server\:argal-servicios=C\:\\Users\\Alf\\Documents\\sts-bundle\\vfabric-tc-server-developer-2.9.6.RELEASE\\localhost2\\wtpwebapps\\argal-web\\WEB-INF\\lib\\argal-servicios-0.0.1-SNAPSHOT-servicios.jar
+org.eclipse.jst.j2ee.server\:argal-seguridad=C\:\\Users\\Alf\\Documents\\sts-bundle\\vfabric-tc-server-developer-2.9.6.RELEASE\\localhost2\\wtpwebapps\\argal-web\\WEB-INF\\lib\\argal-seguridad-1.0.0-seguridad.jar
+org.eclipse.jst.j2ee.server\:argal-datos=C\:\\Users\\Alf\\Documents\\sts-bundle\\vfabric-tc-server-developer-2.9.6.RELEASE\\localhost2\\wtpwebapps\\argal-web\\WEB-INF\\lib\\argal-datos-0.0.1-SNAPSHOT-datos.jar
+org.eclipse.jst.j2ee.server\:argal-web=C\:\\Users\\Alf\\Documents\\sts-bundle\\vfabric-tc-server-developer-2.9.6.RELEASE\\localhost2\\wtpwebapps\\argal-web
+org.eclipse.jst.j2ee.server\:argal-modelo=C\:\\Users\\Alf\\Documents\\sts-bundle\\vfabric-tc-server-developer-2.9.6.RELEASE\\localhost2\\wtpwebapps\\argal-web\\WEB-INF\\lib\\argal-modelo-0.0.1-SNAPSHOT-modelo.jar

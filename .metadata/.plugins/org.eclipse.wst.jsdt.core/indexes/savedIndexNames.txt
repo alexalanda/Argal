@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+C:\Users\Alf\Documents\smart\argal\argal\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3909108254.index
+758930099.index
+2258769221.index
+2355408834.index
+696140490.index
+2477497472.index

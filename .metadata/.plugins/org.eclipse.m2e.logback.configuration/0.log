@@ -1,0 +1,535 @@
+2013-04-05 16:10:56,090 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-wtp does not contain lifecycle mapping metadata
+2013-04-05 16:10:56,161 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2013-04-05 16:10:56,162 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2013-04-05 16:10:56,163 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subclipse does not contain lifecycle mapping metadata
+2013-04-05 16:12:57,649 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: mx.sep.sajja.web:sep-sajja-web:0.0.1-web-SNAPSHOT @ C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-sajja-web\pom.xml.
+2013-04-05 16:13:00,537 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.sep.sajja.servicios:sep-sajja-servicios:0.0.1-SNAPSHOT-servicios @ C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-sajja-servicios\pom.xml.
+2013-04-05 16:13:00,623 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.sep.sajja.datos:sep-sajja-datos:0.0.1-SNAPSHOT-datos @ C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-sajja-datos\pom.xml.
+2013-04-05 16:13:00,680 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.sep.seguridad:sep-seguridad:1.0.0-seguridad @ C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-seguridad\pom.xml.
+2013-04-05 16:13:00,738 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.sep.sajja.modelo:sep-sajja-modelo:0.0.1-SNAPSHOT-modelo @ C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-sajja-modelo\pom.xml.
+2013-04-05 16:13:08,409 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sep-sajja-modelo/src/main/java
+2013-04-05 16:13:08,409 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sep-sajja-modelo/src/test/java
+2013-04-05 16:13:08,646 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sep-sajja-datos/src/main/java
+2013-04-05 16:13:08,647 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sep-sajja-datos/src/main/resources
+2013-04-05 16:13:08,649 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sep-sajja-datos/src/test/java
+2013-04-05 16:13:08,649 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sep-sajja-datos/src/test/resources
+2013-04-05 16:13:08,689 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: mx.sep.sajja.web:sep-sajja-web:0.0.1-web-SNAPSHOT @ C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-sajja-web\pom.xml.
+2013-04-05 16:13:09,220 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sep-sajja-servicios/src/main/java
+2013-04-05 16:13:09,410 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sep-sajja-servicios/src/main/resources
+2013-04-05 16:13:09,411 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sep-sajja-servicios/src/test/java
+2013-04-05 16:13:09,787 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sep-seguridad/src/main/java
+2013-04-05 16:13:09,792 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sep-seguridad/src/main/resources
+2013-04-05 16:13:09,794 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sep-seguridad/src/test/java
+2013-04-05 16:13:09,885 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.sep.sajja.servicios:sep-sajja-servicios:0.0.1-SNAPSHOT-servicios @ C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-sajja-servicios\pom.xml.
+2013-04-05 16:13:10,329 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sep-sajja-web/src/main/java
+2013-04-05 16:13:10,329 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sep-sajja-web/src/main/resources
+2013-04-05 16:13:10,329 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sep-sajja-web/src/test/java
+2013-04-05 16:13:10,392 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.sep.sajja.datos:sep-sajja-datos:0.0.1-SNAPSHOT-datos @ C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-sajja-datos\pom.xml.
+2013-04-05 16:13:10,831 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.sep.seguridad:sep-seguridad:1.0.0-seguridad @ C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-seguridad\pom.xml.
+2013-04-05 16:13:11,035 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 22 sec
+2013-04-05 16:13:11,151 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.sep.sajja.modelo:sep-sajja-modelo:0.0.1-SNAPSHOT-modelo @ C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-sajja-modelo\pom.xml.
+2013-04-05 16:13:16,584 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-04-05 16:13:16,585 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2013-04-05 16:13:17,161 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.sep.sajja.datos:sep-sajja-datos:0.0.1-SNAPSHOT-datos @ C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-sajja-datos\pom.xml.
+2013-04-05 16:13:17,731 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.sep.sajja.modelo:sep-sajja-modelo:0.0.1-SNAPSHOT-modelo @ C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-sajja-modelo\pom.xml.
+2013-04-05 16:13:17,898 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.sep.sajja.servicios:sep-sajja-servicios:0.0.1-SNAPSHOT-servicios @ C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-sajja-servicios\pom.xml.
+2013-04-05 16:13:18,175 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: mx.sep.sajja.web:sep-sajja-web:0.0.1-web-SNAPSHOT @ C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-sajja-web\pom.xml.
+2013-04-05 16:13:18,704 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.sep.seguridad:sep-seguridad:1.0.0-seguridad @ C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-seguridad\pom.xml.
+2013-04-05 16:13:36,419 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.sep.sajja.modelo:sep-sajja-modelo:0.0.1-SNAPSHOT-modelo @ C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-sajja-modelo\pom.xml.
+2013-04-05 16:13:36,969 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 16:13:36,977 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-sajja-modelo\src\main\resources
+2013-04-05 16:13:36,980 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 16:13:36,980 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-sajja-modelo\src\test\resources
+2013-04-05 16:13:38,391 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.sep.sajja.datos:sep-sajja-datos:0.0.1-SNAPSHOT-datos @ C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-sajja-datos\pom.xml.
+2013-04-05 16:13:38,978 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 16:13:38,988 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources to .
+2013-04-05 16:13:39,330 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 16:13:39,332 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2013-04-05 16:13:41,653 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.sep.sajja.servicios:sep-sajja-servicios:0.0.1-SNAPSHOT-servicios @ C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-sajja-servicios\pom.xml.
+2013-04-05 16:13:42,080 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 16:13:42,084 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2013-04-05 16:13:42,108 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 16:13:42,108 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-sajja-servicios\src\test\resources
+2013-04-05 16:13:43,861 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.sep.seguridad:sep-seguridad:1.0.0-seguridad @ C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-seguridad\pom.xml.
+2013-04-05 16:13:44,252 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 16:13:44,259 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources to .
+2013-04-05 16:13:44,329 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 16:13:44,329 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-seguridad\src\test\resources
+2013-04-05 16:15:50,739 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: mx.sep.sajja.web:sep-sajja-web:0.0.1-web-SNAPSHOT @ C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-sajja-web\pom.xml.
+2013-04-05 16:15:51,885 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2013-04-05 16:15:51,886 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-04-05 16:15:51,889 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources to .
+2013-04-05 16:15:51,907 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-04-05 16:15:51,908 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-sajja-web\src\test\resources
+2013-04-05 16:15:51,909 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for sep-sajja-web
+2013-04-05 16:15:52,063 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2013-04-05 16:15:52,064 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2013-04-05 16:15:52,065 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources to WEB-INF
+2013-04-05 18:11:16,286 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: mx.sep.sajja.web:sep-sajja-web:0.0.1-web-SNAPSHOT @ C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-sajja-web\pom.xml.
+2013-04-05 18:11:16,774 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: mx.sep.sajja.web:sep-sajja-web:0.0.1-web-SNAPSHOT @ C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-sajja-web\pom.xml.
+2013-04-05 18:11:18,093 [Worker-30] ERROR o.e.m.c.i.p.r.ProjectRegistryRefreshJob - null
+java.lang.NullPointerException: null
+	at org.eclipse.m2e.wtp.WTPProjectConfigurator.mavenProjectChanged(WTPProjectConfigurator.java:72) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.mavenProjectChanged(ProjectConfigurationManager.java:905) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:732) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:855) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:94) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.5.200.v20120521-2346.jar:na]
+2013-04-05 18:18:54,176 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.sep.sajja.servicios:sep-sajja-servicios:0.0.1-SNAPSHOT-servicios @ C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-sajja-servicios\pom.xml.
+2013-04-05 18:18:54,347 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.sep.sajja.datos:sep-sajja-datos:0.0.1-SNAPSHOT-datos @ C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-sajja-datos\pom.xml.
+2013-04-05 18:18:54,437 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.sep.seguridad:sep-seguridad:1.0.0-seguridad @ C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-seguridad\pom.xml.
+2013-04-05 18:18:54,491 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.sep.sajja.modelo:sep-sajja-modelo:0.0.1-SNAPSHOT-modelo @ C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-sajja-modelo\pom.xml.
+2013-04-05 18:18:55,496 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sep-sajja-modelo/src/main/java
+2013-04-05 18:18:55,497 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sep-sajja-modelo/src/test/java
+2013-04-05 18:18:55,656 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sep-sajja-datos/src/main/java
+2013-04-05 18:18:55,657 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sep-sajja-datos/src/main/resources
+2013-04-05 18:18:55,658 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sep-sajja-datos/src/test/java
+2013-04-05 18:18:55,658 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sep-sajja-datos/src/test/resources
+2013-04-05 18:18:55,839 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.sep.sajja.servicios:sep-sajja-servicios:0.0.1-SNAPSHOT-servicios @ C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-sajja-servicios\pom.xml.
+2013-04-05 18:18:56,036 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sep-sajja-servicios/src/main/java
+2013-04-05 18:18:56,037 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sep-sajja-servicios/src/main/resources
+2013-04-05 18:18:56,037 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sep-sajja-servicios/src/test/java
+2013-04-05 18:18:56,447 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.sep.sajja.datos:sep-sajja-datos:0.0.1-SNAPSHOT-datos @ C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-sajja-datos\pom.xml.
+2013-04-05 18:18:56,451 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sep-seguridad/src/main/java
+2013-04-05 18:18:56,451 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sep-seguridad/src/main/resources
+2013-04-05 18:18:56,452 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sep-seguridad/src/test/java
+2013-04-05 18:18:57,009 [Worker-33] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 3 sec
+2013-04-05 18:18:57,027 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.sep.seguridad:sep-seguridad:1.0.0-seguridad @ C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-seguridad\pom.xml.
+2013-04-05 18:18:57,766 [Worker-33] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-04-05 18:18:57,766 [Worker-33] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2013-04-05 18:18:58,348 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.sep.sajja.modelo:sep-sajja-modelo:0.0.1-SNAPSHOT-modelo @ C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-sajja-modelo\pom.xml.
+2013-04-05 18:18:58,437 [Worker-36] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.sep.sajja.modelo:sep-sajja-modelo:0.0.1-SNAPSHOT-modelo @ C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-sajja-modelo\pom.xml.
+2013-04-05 18:18:58,698 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 18:18:58,698 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-sajja-modelo\src\main\resources
+2013-04-05 18:18:58,700 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 18:18:58,701 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-sajja-modelo\src\test\resources
+2013-04-05 18:18:59,184 [Worker-36] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.sep.sajja.datos:sep-sajja-datos:0.0.1-SNAPSHOT-datos @ C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-sajja-datos\pom.xml.
+2013-04-05 18:18:59,512 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 18:18:59,515 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources to .
+2013-04-05 18:18:59,563 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 18:18:59,564 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2013-04-05 18:19:01,312 [Worker-36] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.sep.sajja.servicios:sep-sajja-servicios:0.0.1-SNAPSHOT-servicios @ C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-sajja-servicios\pom.xml.
+2013-04-05 18:19:01,748 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 18:19:01,750 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2013-04-05 18:19:01,758 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 18:19:01,758 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-sajja-servicios\src\test\resources
+2013-04-05 18:19:02,577 [Worker-36] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.sep.seguridad:sep-seguridad:1.0.0-seguridad @ C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-seguridad\pom.xml.
+2013-04-05 18:19:03,136 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 18:19:03,138 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources to .
+2013-04-05 18:19:03,203 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 18:19:03,203 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-seguridad\src\test\resources
+2013-04-05 18:19:04,267 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.sep.sajja.servicios:sep-sajja-servicios:0.0.1-SNAPSHOT-servicios @ C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-sajja-servicios\pom.xml.
+2013-04-05 18:19:04,654 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.sep.sajja.datos:sep-sajja-datos:0.0.1-SNAPSHOT-datos @ C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-sajja-datos\pom.xml.
+2013-04-05 18:19:04,837 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.sep.seguridad:sep-seguridad:1.0.0-seguridad @ C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-seguridad\pom.xml.
+2013-04-05 18:19:05,121 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.sep.sajja.modelo:sep-sajja-modelo:0.0.1-SNAPSHOT-modelo @ C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-sajja-modelo\pom.xml.
+2013-04-05 18:19:30,987 [Worker-36] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 0 sec
+2013-04-05 18:19:30,988 [Worker-36] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-04-05 18:19:30,988 [Worker-36] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2013-04-05 18:19:36,709 [Worker-26] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Failed to read Maven project: 2 problems were encountered while building the effective model for mx.estrategas.fam.web:estrategas-fam-web:0.0.1-web-SNAPSHOT
+[WARNING] 'parent.relativePath' points at mx.estrategas.fam:estrategas-fam instead of mx.estregas.fam:estrategas-fam, please verify your project structure @ line 5, column 11
+[FATAL] Non-resolvable parent POM: Could not find artifact mx.estregas.fam:estrategas-fam:pom:0.0.1-SNAPSHOT and 'parent.relativePath' points at wrong local POM @ line 5, column 11
+ for project mx.estrategas.fam.web:estrategas-fam-web:0.0.1-web-SNAPSHOT at C:\Users\Alf\Documents\smart\estrategasfam\workspace\estrategas-fam\pom.xml
+org.apache.maven.project.ProjectBuildingException: 2 problems were encountered while building the effective model for mx.estrategas.fam.web:estrategas-fam-web:0.0.1-web-SNAPSHOT
+[WARNING] 'parent.relativePath' points at mx.estrategas.fam:estrategas-fam instead of mx.estregas.fam:estrategas-fam, please verify your project structure @ line 5, column 11
+[FATAL] Non-resolvable parent POM: Could not find artifact mx.estregas.fam:estrategas-fam:pom:0.0.1-SNAPSHOT and 'parent.relativePath' points at wrong local POM @ line 5, column 11
+ for project mx.estrategas.fam.web:estrategas-fam-web:0.0.1-web-SNAPSHOT at C:\Users\Alf\Documents\smart\estrategasfam\workspace\estrategas-fam\pom.xml
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:149) ~[maven-core-3.0.4.jar:3.0.4]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:102) ~[maven-core-3.0.4.jar:3.0.4]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readProject(MavenImpl.java:588) ~[org.eclipse.m2e.core_1.3.1.20130219-1424.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:754) ~[org.eclipse.m2e.core_1.3.1.20130219-1424.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.create(ProjectRegistryManager.java:169) ~[org.eclipse.m2e.core_1.3.1.20130219-1424.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.create(MavenProjectManager.java:70) [org.eclipse.m2e.core_1.3.1.20130219-1424.jar:na]
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:277) [org.eclipse.m2e.core.ui_1.3.1.20130219-1424.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:754) [org.eclipse.m2e.editor_1.3.1.20130219-1424.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$6.run(MavenPomEditor.java:1077) [org.eclipse.m2e.editor_1.3.1.20130219-1424.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.5.200.v20120521-2346.jar:na]
+Caused by: org.apache.maven.model.building.ModelBuildingException: 2 problems were encountered while building the effective model for mx.estrategas.fam.web:estrategas-fam-web:0.0.1-web-SNAPSHOT
+[WARNING] 'parent.relativePath' points at mx.estrategas.fam:estrategas-fam instead of mx.estregas.fam:estrategas-fam, please verify your project structure @ line 5, column 11
+[FATAL] Non-resolvable parent POM: Could not find artifact mx.estregas.fam:estrategas-fam:pom:0.0.1-SNAPSHOT and 'parent.relativePath' points at wrong local POM @ line 5, column 11
+
+	at org.apache.maven.model.building.DefaultModelProblemCollector.newModelBuildingException(DefaultModelProblemCollector.java:195) ~[maven-model-builder-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.building.DefaultModelBuilder.readParentExternally(DefaultModelBuilder.java:841) ~[maven-model-builder-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.building.DefaultModelBuilder.readParent(DefaultModelBuilder.java:664) ~[maven-model-builder-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:310) ~[maven-model-builder-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:232) ~[maven-model-builder-3.0.4.jar:3.0.4]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:142) ~[maven-core-3.0.4.jar:3.0.4]
+	... 9 common frames omitted
+2013-04-05 18:20:58,532 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 18:20:58,533 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-sajja-modelo\src\main\resources
+2013-04-05 18:20:58,534 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 18:20:58,534 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-sajja-modelo\src\test\resources
+2013-04-05 18:20:58,569 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 18:20:58,595 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to .
+2013-04-05 18:20:58,597 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 18:20:58,597 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-04-05 18:20:58,624 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 18:20:58,624 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-04-05 18:20:58,626 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 18:20:58,626 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-sajja-servicios\src\test\resources
+2013-04-05 18:20:58,640 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 18:20:58,640 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to .
+2013-04-05 18:20:58,643 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 18:20:58,644 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-seguridad\src\test\resources
+2013-04-05 18:23:11,039 [Worker-33] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Failed to read Maven project: 2 problems were encountered while building the effective model for mx.estrategas.fam.web:estrategas-fam-web:0.0.1-web-SNAPSHOT
+[WARNING] 'parent.relativePath' points at mx.estrategas.fam:estrategas-fam instead of mx.estregas.fam:estrategas-fam, please verify your project structure @ line 5, column 11
+[FATAL] Non-resolvable parent POM: Could not find artifact mx.estregas.fam:estrategas-fam:pom:0.0.1-SNAPSHOT and 'parent.relativePath' points at wrong local POM @ line 5, column 11
+ for project mx.estrategas.fam.web:estrategas-fam-web:0.0.1-web-SNAPSHOT at C:\Users\Alf\Documents\smart\estrategasfam\workspace\estrategas-fam-web\pom.xml
+org.apache.maven.project.ProjectBuildingException: 2 problems were encountered while building the effective model for mx.estrategas.fam.web:estrategas-fam-web:0.0.1-web-SNAPSHOT
+[WARNING] 'parent.relativePath' points at mx.estrategas.fam:estrategas-fam instead of mx.estregas.fam:estrategas-fam, please verify your project structure @ line 5, column 11
+[FATAL] Non-resolvable parent POM: Could not find artifact mx.estregas.fam:estrategas-fam:pom:0.0.1-SNAPSHOT and 'parent.relativePath' points at wrong local POM @ line 5, column 11
+ for project mx.estrategas.fam.web:estrategas-fam-web:0.0.1-web-SNAPSHOT at C:\Users\Alf\Documents\smart\estrategasfam\workspace\estrategas-fam-web\pom.xml
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:149) ~[maven-core-3.0.4.jar:3.0.4]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:102) ~[maven-core-3.0.4.jar:3.0.4]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readProject(MavenImpl.java:588) ~[org.eclipse.m2e.core_1.3.1.20130219-1424.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:754) ~[org.eclipse.m2e.core_1.3.1.20130219-1424.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.create(ProjectRegistryManager.java:169) ~[org.eclipse.m2e.core_1.3.1.20130219-1424.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.create(MavenProjectManager.java:70) [org.eclipse.m2e.core_1.3.1.20130219-1424.jar:na]
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:277) [org.eclipse.m2e.core.ui_1.3.1.20130219-1424.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:754) [org.eclipse.m2e.editor_1.3.1.20130219-1424.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$6.run(MavenPomEditor.java:1077) [org.eclipse.m2e.editor_1.3.1.20130219-1424.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.5.200.v20120521-2346.jar:na]
+Caused by: org.apache.maven.model.building.ModelBuildingException: 2 problems were encountered while building the effective model for mx.estrategas.fam.web:estrategas-fam-web:0.0.1-web-SNAPSHOT
+[WARNING] 'parent.relativePath' points at mx.estrategas.fam:estrategas-fam instead of mx.estregas.fam:estrategas-fam, please verify your project structure @ line 5, column 11
+[FATAL] Non-resolvable parent POM: Could not find artifact mx.estregas.fam:estrategas-fam:pom:0.0.1-SNAPSHOT and 'parent.relativePath' points at wrong local POM @ line 5, column 11
+
+	at org.apache.maven.model.building.DefaultModelProblemCollector.newModelBuildingException(DefaultModelProblemCollector.java:195) ~[maven-model-builder-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.building.DefaultModelBuilder.readParentExternally(DefaultModelBuilder.java:841) ~[maven-model-builder-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.building.DefaultModelBuilder.readParent(DefaultModelBuilder.java:664) ~[maven-model-builder-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:310) ~[maven-model-builder-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:232) ~[maven-model-builder-3.0.4.jar:3.0.4]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:142) ~[maven-core-3.0.4.jar:3.0.4]
+	... 9 common frames omitted
+2013-04-05 18:24:40,827 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 18:24:40,921 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources to .
+2013-04-05 18:24:40,935 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-04-05 18:24:40,935 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-seguridad\src\test\resources
+2013-04-05 18:24:57,011 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.sep.sajja.datos:sep-sajja-datos:0.0.1-SNAPSHOT-datos @ C:\Users\Alf\Documents\smart\estrategasfam\workspace\sep-sajja-datos\pom.xml.
+2014-05-09 14:59:18,329 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2014-05-09 14:59:18,365 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2014-05-09 14:59:18,367 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subclipse does not contain lifecycle mapping metadata
+2014-05-09 14:59:50,691 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: mx.argal.web:argal-web:0.0.1-web-SNAPSHOT @ C:\Users\Alf\Documents\GitHub\argal\argal\argal-web\pom.xml.
+2014-05-09 14:59:53,583 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.argal.servicios:argal-servicios:0.0.1-SNAPSHOT-servicios @ C:\Users\Alf\Documents\GitHub\argal\argal\argal-servicios\pom.xml.
+2014-05-09 14:59:53,738 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.argal.datos:argal-datos:0.0.1-SNAPSHOT-datos @ C:\Users\Alf\Documents\GitHub\argal\argal\argal-datos\pom.xml.
+2014-05-09 14:59:53,834 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.argal.seguridad:argal-seguridad:1.0.0-seguridad @ C:\Users\Alf\Documents\GitHub\argal\argal\argal-seguridad\pom.xml.
+2014-05-09 14:59:53,927 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.argal.modelo:argal-modelo:0.0.1-SNAPSHOT-modelo @ C:\Users\Alf\Documents\GitHub\argal\argal\argal-modelo\pom.xml.
+2014-05-09 15:00:11,511 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /argal-modelo/src/main/java
+2014-05-09 15:00:11,512 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /argal-modelo/src/test/java
+2014-05-09 15:00:11,994 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /argal-datos/src/main/java
+2014-05-09 15:00:11,995 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /argal-datos/src/main/resources
+2014-05-09 15:00:11,997 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /argal-datos/src/test/java
+2014-05-09 15:00:11,998 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /argal-datos/src/test/resources
+2014-05-09 15:00:12,545 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /argal-seguridad/src/main/java
+2014-05-09 15:00:12,545 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /argal-seguridad/src/main/resources
+2014-05-09 15:00:12,548 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /argal-seguridad/src/test/java
+2014-05-09 15:00:12,982 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /argal-servicios/src/main/java
+2014-05-09 15:00:12,982 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /argal-servicios/src/main/resources
+2014-05-09 15:00:12,984 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /argal-servicios/src/test/java
+2014-05-09 15:00:13,403 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /argal-web/src/main/java
+2014-05-09 15:00:13,404 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /argal-web/src/main/resources
+2014-05-09 15:00:13,405 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /argal-web/src/test/java
+2014-05-09 15:00:14,250 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 31 sec
+2014-05-09 15:00:28,807 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-05-09 15:00:28,808 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2014-05-09 15:00:32,511 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.argal.modelo:argal-modelo:0.0.1-SNAPSHOT-modelo @ C:\Users\Alf\Documents\GitHub\argal\argal\argal-modelo\pom.xml.
+2014-05-09 15:00:37,280 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-09 15:00:37,281 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Alf\Documents\GitHub\argal\argal\argal-modelo\src\main\resources
+2014-05-09 15:00:37,299 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-09 15:00:37,300 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Alf\Documents\GitHub\argal\argal\argal-modelo\src\test\resources
+2014-05-09 15:00:38,608 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: mx.argal.web:argal-web:0.0.1-web-SNAPSHOT @ C:\Users\Alf\Documents\GitHub\argal\argal\argal-web\pom.xml.
+2014-05-09 15:00:41,009 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.argal.servicios:argal-servicios:0.0.1-SNAPSHOT-servicios @ C:\Users\Alf\Documents\GitHub\argal\argal\argal-servicios\pom.xml.
+2014-05-09 15:00:41,471 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.argal.datos:argal-datos:0.0.1-SNAPSHOT-datos @ C:\Users\Alf\Documents\GitHub\argal\argal\argal-datos\pom.xml.
+2014-05-09 15:00:42,582 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.argal.seguridad:argal-seguridad:1.0.0-seguridad @ C:\Users\Alf\Documents\GitHub\argal\argal\argal-seguridad\pom.xml.
+2014-05-09 15:00:43,011 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.argal.modelo:argal-modelo:0.0.1-SNAPSHOT-modelo @ C:\Users\Alf\Documents\GitHub\argal\argal\argal-modelo\pom.xml.
+2014-05-09 15:00:46,198 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-09 15:00:46,199 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Alf\Documents\GitHub\argal\argal\argal-modelo\src\main\resources
+2014-05-09 15:00:46,200 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-09 15:00:46,201 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Alf\Documents\GitHub\argal\argal\argal-modelo\src\test\resources
+2014-05-09 15:00:46,227 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-09 15:00:46,236 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 15 resources to .
+2014-05-09 15:00:48,007 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-09 15:00:48,008 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2014-05-09 15:00:49,532 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-09 15:00:49,536 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources to .
+2014-05-09 15:00:50,040 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-09 15:00:50,041 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Alf\Documents\GitHub\argal\argal\argal-seguridad\src\test\resources
+2014-05-09 15:00:51,881 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-09 15:00:51,882 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2014-05-09 15:00:52,142 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-09 15:00:52,143 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Alf\Documents\GitHub\argal\argal\argal-servicios\src\test\resources
+2014-05-09 15:09:04,748 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-09 15:09:04,754 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Alf\Documents\GitHub\argal\argal\argal-modelo\src\main\resources
+2014-05-09 15:09:04,757 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-09 15:09:04,757 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Alf\Documents\GitHub\argal\argal\argal-modelo\src\test\resources
+2014-05-09 15:09:08,295 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-09 15:09:08,306 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 15 resources to .
+2014-05-09 15:09:08,593 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-09 15:09:08,600 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2014-05-09 15:09:10,445 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-09 15:09:10,449 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources to .
+2014-05-09 15:09:10,467 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-09 15:09:10,468 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Alf\Documents\GitHub\argal\argal\argal-seguridad\src\test\resources
+2014-05-09 15:09:11,226 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-09 15:09:11,227 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2014-05-09 15:09:11,233 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-05-09 15:09:11,233 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Alf\Documents\GitHub\argal\argal\argal-servicios\src\test\resources
+2014-05-09 15:09:20,969 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2014-05-09 15:09:20,971 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-09 15:09:20,973 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources to .
+2014-05-09 15:09:20,998 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-09 15:09:20,999 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Alf\Documents\GitHub\argal\argal\argal-web\src\test\resources
+2014-05-09 15:09:21,380 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for argal-web
+2014-05-09 15:09:21,943 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2014-05-09 15:09:21,944 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-05-09 15:09:21,946 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources to WEB-INF
+2014-07-23 21:29:48,980 [Worker-4] ERROR o.e.m.e.x.i.MarkerLocationService - Error checking for warnings
+java.lang.NullPointerException: null
+	at org.eclipse.m2e.editor.xml.internal.MarkerLocationService.checkVarious(MarkerLocationService.java:564) [org.eclipse.m2e.editor.xml_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.editor.xml.internal.MarkerLocationService.addEditorHintMarkers(MarkerLocationService.java:241) [org.eclipse.m2e.editor.xml_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.markers.MarkerUtils.addEditorHintMarkers(MarkerUtils.java:66) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$4.call(ProjectRegistryManager.java:669) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$4.call(ProjectRegistryManager.java:1) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:913) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readMavenProjectFacade(ProjectRegistryManager.java:660) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:377) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:336) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1$1.call(ProjectRegistryRefreshJob.java:95) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1344) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:93) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1348) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:87) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+2014-07-23 21:29:49,420 [Worker-4] ERROR o.e.m.e.x.i.MarkerLocationService - Error checking for warnings
+java.lang.NullPointerException: null
+	at org.eclipse.m2e.editor.xml.internal.MarkerLocationService.checkVarious(MarkerLocationService.java:564) [org.eclipse.m2e.editor.xml_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.editor.xml.internal.MarkerLocationService.addEditorHintMarkers(MarkerLocationService.java:241) [org.eclipse.m2e.editor.xml_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.markers.MarkerUtils.addEditorHintMarkers(MarkerUtils.java:66) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$4.call(ProjectRegistryManager.java:669) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$4.call(ProjectRegistryManager.java:1) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:913) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readMavenProjectFacade(ProjectRegistryManager.java:660) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:377) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:336) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1$1.call(ProjectRegistryRefreshJob.java:95) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1344) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:93) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1348) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:87) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+2014-07-23 21:29:49,617 [Worker-4] ERROR o.e.m.e.x.i.MarkerLocationService - Error checking for warnings
+java.lang.NullPointerException: null
+	at org.eclipse.m2e.editor.xml.internal.MarkerLocationService.checkVarious(MarkerLocationService.java:564) [org.eclipse.m2e.editor.xml_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.editor.xml.internal.MarkerLocationService.addEditorHintMarkers(MarkerLocationService.java:241) [org.eclipse.m2e.editor.xml_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.markers.MarkerUtils.addEditorHintMarkers(MarkerUtils.java:66) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$4.call(ProjectRegistryManager.java:669) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$4.call(ProjectRegistryManager.java:1) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:913) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readMavenProjectFacade(ProjectRegistryManager.java:660) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:377) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:336) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1$1.call(ProjectRegistryRefreshJob.java:95) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1344) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:93) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1348) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:87) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+2014-07-23 21:29:49,659 [Worker-4] ERROR o.e.m.e.x.i.MarkerLocationService - Error checking for warnings
+java.lang.NullPointerException: null
+	at org.eclipse.m2e.editor.xml.internal.MarkerLocationService.checkVarious(MarkerLocationService.java:564) [org.eclipse.m2e.editor.xml_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.editor.xml.internal.MarkerLocationService.addEditorHintMarkers(MarkerLocationService.java:241) [org.eclipse.m2e.editor.xml_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.markers.MarkerUtils.addEditorHintMarkers(MarkerUtils.java:66) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$4.call(ProjectRegistryManager.java:669) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$4.call(ProjectRegistryManager.java:1) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:913) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readMavenProjectFacade(ProjectRegistryManager.java:660) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:377) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:336) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1$1.call(ProjectRegistryRefreshJob.java:95) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1344) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:93) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1348) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:87) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+2014-07-23 21:29:49,793 [Worker-4] ERROR o.e.m.e.x.i.MarkerLocationService - Error checking for warnings
+java.lang.NullPointerException: null
+	at org.eclipse.m2e.editor.xml.internal.MarkerLocationService.checkVarious(MarkerLocationService.java:564) [org.eclipse.m2e.editor.xml_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.editor.xml.internal.MarkerLocationService.addEditorHintMarkers(MarkerLocationService.java:241) [org.eclipse.m2e.editor.xml_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.markers.MarkerUtils.addEditorHintMarkers(MarkerUtils.java:66) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$4.call(ProjectRegistryManager.java:669) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$4.call(ProjectRegistryManager.java:1) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:913) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readMavenProjectFacade(ProjectRegistryManager.java:660) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:377) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:336) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1$1.call(ProjectRegistryRefreshJob.java:95) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1344) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:93) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1348) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:87) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+2014-07-23 21:29:51,782 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.argal.datos:argal-datos:0.0.1-SNAPSHOT-datos @ C:\Users\Alf\Documents\smart\argal\argal\argal-datos\pom.xml.
+2014-07-23 21:29:53,160 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.argal.modelo:argal-modelo:0.0.1-SNAPSHOT-modelo @ C:\Users\Alf\Documents\smart\argal\argal\argal-modelo\pom.xml.
+2014-07-23 21:30:00,351 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.argal.seguridad:argal-seguridad:1.0.0-seguridad @ C:\Users\Alf\Documents\smart\argal\argal\argal-seguridad\pom.xml.
+2014-07-23 21:30:02,039 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.argal.servicios:argal-servicios:0.0.1-SNAPSHOT-servicios @ C:\Users\Alf\Documents\smart\argal\argal\argal-servicios\pom.xml.
+2014-07-23 21:30:02,736 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: mx.argal.web:argal-web:0.0.1-web-SNAPSHOT @ C:\Users\Alf\Documents\smart\argal\argal\argal-web\pom.xml.
+2014-07-23 21:30:05,040 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.argal.datos:argal-datos:0.0.1-SNAPSHOT-datos @ C:\Users\Alf\Documents\smart\argal\argal\argal-datos\pom.xml.
+2014-07-23 21:30:08,186 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.argal.datos:argal-datos:0.0.1-SNAPSHOT-datos @ C:\Users\Alf\Documents\smart\argal\argal\argal-datos\pom.xml.
+2014-07-23 21:30:08,232 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-07-23 21:30:08,240 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 15 resources to .
+2014-07-23 21:30:09,355 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-07-23 21:30:09,357 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2014-07-23 21:30:09,790 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.argal.modelo:argal-modelo:0.0.1-SNAPSHOT-modelo @ C:\Users\Alf\Documents\smart\argal\argal\argal-modelo\pom.xml.
+2014-07-23 21:30:10,102 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.argal.seguridad:argal-seguridad:1.0.0-seguridad @ C:\Users\Alf\Documents\smart\argal\argal\argal-seguridad\pom.xml.
+2014-07-23 21:30:10,664 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.argal.servicios:argal-servicios:0.0.1-SNAPSHOT-servicios @ C:\Users\Alf\Documents\smart\argal\argal\argal-servicios\pom.xml.
+2014-07-23 21:30:11,280 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: mx.argal.web:argal-web:0.0.1-web-SNAPSHOT @ C:\Users\Alf\Documents\smart\argal\argal\argal-web\pom.xml.
+2014-07-23 21:30:23,987 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-07-23 21:30:23,988 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Alf\Documents\smart\argal\argal\argal-modelo\src\main\resources
+2014-07-23 21:30:23,991 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-07-23 21:30:23,991 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Alf\Documents\smart\argal\argal\argal-modelo\src\test\resources
+2014-07-23 21:30:24,631 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-07-23 21:30:24,633 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource to .
+2014-07-23 21:30:24,635 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-07-23 21:30:24,635 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-07-23 21:30:25,789 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-07-23 21:30:25,790 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources to .
+2014-07-23 21:30:25,819 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-07-23 21:30:25,819 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Alf\Documents\smart\argal\argal\argal-seguridad\src\test\resources
+2014-07-23 21:30:26,547 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-07-23 21:30:26,549 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2014-07-23 21:30:26,553 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-07-23 21:30:26,554 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Alf\Documents\smart\argal\argal\argal-servicios\src\test\resources
+2014-07-23 21:30:35,573 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2014-07-23 21:30:35,575 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-23 21:30:35,576 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources to .
+2014-07-23 21:30:35,602 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-23 21:30:35,604 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Alf\Documents\smart\argal\argal\argal-web\src\test\resources
+2014-07-23 21:30:35,608 [Worker-13] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of argal-web
+2014-07-23 21:30:35,609 [Worker-13] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for argal-web
+2014-07-23 21:30:35,639 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-clean-plugin:jar:2.5 is missing, no dependency information available
+2014-07-23 21:30:35,811 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2014-07-23 21:30:35,812 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-23 21:30:35,815 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources to WEB-INF
+2014-07-23 21:31:56,193 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: mx.argal.web:argal-web:0.0.1-web-SNAPSHOT @ C:\Users\Alf\Documents\smart\argal\argal\argal-web\pom.xml.
+2014-07-23 21:31:56,918 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.argal.servicios:argal-servicios:0.0.1-SNAPSHOT-servicios @ C:\Users\Alf\Documents\smart\argal\argal\argal-servicios\pom.xml.
+2014-07-23 21:31:57,156 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.argal.datos:argal-datos:0.0.1-SNAPSHOT-datos @ C:\Users\Alf\Documents\smart\argal\argal\argal-datos\pom.xml.
+2014-07-23 21:31:57,630 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.argal.seguridad:argal-seguridad:1.0.0-seguridad @ C:\Users\Alf\Documents\smart\argal\argal\argal-seguridad\pom.xml.
+2014-07-23 21:31:57,852 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.argal.modelo:argal-modelo:0.0.1-SNAPSHOT-modelo @ C:\Users\Alf\Documents\smart\argal\argal\argal-modelo\pom.xml.
+2014-07-23 21:32:00,361 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /argal-modelo/src/main/java
+2014-07-23 21:32:00,362 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /argal-modelo/src/test/java
+2014-07-23 21:32:00,514 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /argal-datos/src/main/java
+2014-07-23 21:32:00,514 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /argal-datos/src/main/resources
+2014-07-23 21:32:00,516 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /argal-datos/src/test/java
+2014-07-23 21:32:00,516 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /argal-datos/src/test/resources
+2014-07-23 21:32:00,827 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /argal-seguridad/src/main/java
+2014-07-23 21:32:00,828 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /argal-seguridad/src/main/resources
+2014-07-23 21:32:00,829 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /argal-seguridad/src/test/java
+2014-07-23 21:32:00,856 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: mx.argal.web:argal-web:0.0.1-web-SNAPSHOT @ C:\Users\Alf\Documents\smart\argal\argal\argal-web\pom.xml.
+2014-07-23 21:32:01,303 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /argal-servicios/src/main/java
+2014-07-23 21:32:01,304 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /argal-servicios/src/main/resources
+2014-07-23 21:32:01,305 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /argal-servicios/src/test/java
+2014-07-23 21:32:01,690 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /argal-web/src/main/java
+2014-07-23 21:32:01,691 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /argal-web/src/main/resources
+2014-07-23 21:32:01,692 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /argal-web/src/test/java
+2014-07-23 21:32:01,932 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.argal.servicios:argal-servicios:0.0.1-SNAPSHOT-servicios @ C:\Users\Alf\Documents\smart\argal\argal\argal-servicios\pom.xml.
+2014-07-23 21:32:02,158 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.argal.datos:argal-datos:0.0.1-SNAPSHOT-datos @ C:\Users\Alf\Documents\smart\argal\argal\argal-datos\pom.xml.
+2014-07-23 21:32:02,244 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 5 project(s) in 6 sec
+2014-07-23 21:32:03,016 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.argal.seguridad:argal-seguridad:1.0.0-seguridad @ C:\Users\Alf\Documents\smart\argal\argal\argal-seguridad\pom.xml.
+2014-07-23 21:32:03,566 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mx.argal.modelo:argal-modelo:0.0.1-SNAPSHOT-modelo @ C:\Users\Alf\Documents\smart\argal\argal\argal-modelo\pom.xml.
+2014-07-23 21:32:08,398 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-07-23 21:32:08,399 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Alf\Documents\smart\argal\argal\argal-modelo\src\main\resources
+2014-07-23 21:32:08,400 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-07-23 21:32:08,401 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Alf\Documents\smart\argal\argal\argal-modelo\src\test\resources
+2014-07-23 21:32:09,001 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-07-23 21:32:09,002 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 15 resources to .
+2014-07-23 21:32:09,064 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-07-23 21:32:09,066 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2014-07-23 21:32:09,949 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-07-23 21:32:09,949 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources to .
+2014-07-23 21:32:09,964 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-07-23 21:32:09,965 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Alf\Documents\smart\argal\argal\argal-seguridad\src\test\resources
+2014-07-23 21:32:10,576 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-07-23 21:32:10,577 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2014-07-23 21:32:10,579 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-07-23 21:32:10,580 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Alf\Documents\smart\argal\argal\argal-servicios\src\test\resources
+2014-07-23 21:32:11,803 [Worker-44] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: mx.argal.web:argal-web:0.0.1-web-SNAPSHOT @ C:\Users\Alf\Documents\smart\argal\argal\argal-web\pom.xml.
+2014-07-23 21:32:14,726 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2014-07-23 21:32:14,727 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-23 21:32:14,729 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources to .
+2014-07-23 21:32:14,735 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-23 21:32:14,736 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Alf\Documents\smart\argal\argal\argal-web\src\test\resources
+2014-07-23 21:32:14,737 [Worker-44] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for argal-web
+2014-07-23 21:32:14,743 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2014-07-23 21:32:14,744 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-07-23 21:32:14,746 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources to WEB-INF
+2014-07-23 21:34:08,960 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-07-23 21:34:08,962 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource to .
+2014-07-23 21:34:08,965 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-07-23 21:34:08,965 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Alf\Documents\smart\argal\argal\argal-seguridad\src\test\resources
+2014-07-23 21:34:18,487 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-07-23 21:34:18,489 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource to .
+2014-07-23 21:34:18,492 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-07-23 21:34:18,493 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-08-06 15:32:49,889 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-06 15:32:49,904 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2014-08-06 15:32:49,933 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-08-06 15:32:49,933 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Alf\Documents\smart\argal\argal\argal-servicios\src\test\resources
+2014-08-06 15:33:05,325 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: mx.argal.web:argal-web:0.0.1-web-SNAPSHOT @ C:\Users\Alf\Documents\smart\argal\argal\argal-web\pom.xml.
+2014-08-06 15:33:12,764 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+2014-08-06 15:33:12,765 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-08-06 15:33:12,767 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources to .
+2014-08-06 15:33:12,825 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-08-06 15:33:12,826 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Alf\Documents\smart\argal\argal\argal-web\src\test\resources
